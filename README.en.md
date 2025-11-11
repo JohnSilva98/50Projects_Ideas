@@ -1,6 +1,6 @@
 # 🚀 50 Projects in HTML, CSS, and JavaScript
 
-[Versão em Português 🇧🇷](README.md)
+[Versão em Português 🇧🇷](readme.md)
 
 This repository contains **50 practical mini projects** built with **pure HTML, CSS, and JavaScript (Vanilla JS)**.  
 The goal is to **practice programming logic, DOM manipulation, and modern front-end concepts**, building a strong foundation for becoming a complete web developer.
